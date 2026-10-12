@@ -36,7 +36,7 @@ Desarrollador web enfocado en la creación de aplicaciones modernas, responsivas
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardooDev&theme=dark&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoluxx&theme=dark&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
 ---
